@@ -9,6 +9,7 @@ Footprint:
 <img width="739" height="729" alt="Zrzut ekranu 2026-06-20 132713" src="https://github.com/user-attachments/assets/3b7f18ba-f5f9-4cd4-ab01-cd9f08833dc8" />
 
 The Pcb is square with dimentions 69,056mm x 69,056mm.
+
 3D view:
 
 <img width="615" height="624" alt="Zrzut ekranu 2026-06-20 135924" src="https://github.com/user-attachments/assets/b63dfebb-5f73-4b0e-b16f-53db0b239226" /> 
