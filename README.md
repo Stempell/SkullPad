@@ -6,13 +6,13 @@ Here's how it looks:
 
 
 
-Pcb schematic:
+## Pcb schematic:
 
 <img width="903" height="696" alt="Zrzut ekranu 2026-06-29 173110" src="https://github.com/user-attachments/assets/7c031fa2-1bcc-4e06-8fea-e3b1be5c4183" />
 
 
 
-Footprint:
+## Footprint:
 
 <img width="546" height="527" alt="Zrzut ekranu 2026-06-29 172753" src="https://github.com/user-attachments/assets/da1d7383-bf3a-4903-9ee4-1d47fbc61427" />
 
@@ -20,7 +20,7 @@ The Pcb is rectangle with dimentions 61,65mm x 60,60mm
 
 
 
-3D view:
+## 3D view:
 
 <img width="549" height="532" alt="Zrzut ekranu 2026-06-29 214316" src="https://github.com/user-attachments/assets/dd30aa1b-ef1c-4918-a13b-21abc6833dc8" />
 <img width="543" height="538" alt="Zrzut ekranu 2026-06-29 214323" src="https://github.com/user-attachments/assets/aff5c1f6-8646-4d0e-9e23-2b1948efc90c" />
@@ -28,7 +28,7 @@ The Pcb is rectangle with dimentions 61,65mm x 60,60mm
 
 
 
-Case:
+## Case:
 
 <img width="899" height="478" alt="Zrzut ekranu 2026-06-29 221610" src="https://github.com/user-attachments/assets/19d992ad-71a0-427c-ac0a-684f7e4b3c92" />
 <img width="789" height="476" alt="Zrzut ekranu 2026-06-29 221618" src="https://github.com/user-attachments/assets/3cced56c-1cab-4d68-a79f-20789717a22d" />
