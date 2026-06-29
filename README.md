@@ -14,7 +14,7 @@ Here's how it looks:
 
 ## Footprint:
 
-<img width="546" height="527" alt="Zrzut ekranu 2026-06-29 172753" src="https://github.com/user-attachments/assets/da1d7383-bf3a-4903-9ee4-1d47fbc61427" />
+<img width="596" height="581" alt="Zrzut ekranu 2026-06-30 004629" src="https://github.com/user-attachments/assets/5f22d7a5-021c-492e-a07c-f19c5e825331" />
 
 The Pcb is rectangle with dimentions 61,65mm x 60,60mm
 
@@ -22,11 +22,9 @@ The Pcb is rectangle with dimentions 61,65mm x 60,60mm
 
 ## 3D view:
 
-<img width="549" height="532" alt="Zrzut ekranu 2026-06-29 214316" src="https://github.com/user-attachments/assets/dd30aa1b-ef1c-4918-a13b-21abc6833dc8" />
-<img width="543" height="538" alt="Zrzut ekranu 2026-06-29 214323" src="https://github.com/user-attachments/assets/aff5c1f6-8646-4d0e-9e23-2b1948efc90c" />
-<img width="596" height="550" alt="Zrzut ekranu 2026-06-29 221022" src="https://github.com/user-attachments/assets/4f5cd64c-aa9a-45a0-aa21-a80e51e0c354" />
-
-
+<img width="577" height="649" alt="Zrzut ekranu 2026-06-30 004732" src="https://github.com/user-attachments/assets/6ca683c4-889b-4607-9f68-30cac25bb70f" />
+<img width="586" height="576" alt="Zrzut ekranu 2026-06-30 004716" src="https://github.com/user-attachments/assets/5a9925f1-5746-4608-a620-9e1b12718b72" />
+<img width="590" height="599" alt="Zrzut ekranu 2026-06-30 004722" src="https://github.com/user-attachments/assets/b5f3c185-7dff-40a6-82dd-e700198d0571" />
 
 ## Case:
 
