@@ -8,13 +8,14 @@ Here's how it looks:
 
 ## Pcb schematic:
 
-<img width="903" height="696" alt="Zrzut ekranu 2026-06-29 173110" src="https://github.com/user-attachments/assets/7c031fa2-1bcc-4e06-8fea-e3b1be5c4183" />
+<img width="983" height="735" alt="Zrzut ekranu 2026-07-06 035041" src="https://github.com/user-attachments/assets/f2f1421d-d057-44b7-9a83-50aaaf81d809" />
+
 
 
 
 ## Footprint:
 
-<img width="596" height="581" alt="Zrzut ekranu 2026-06-30 004629" src="https://github.com/user-attachments/assets/5f22d7a5-021c-492e-a07c-f19c5e825331" />
+<img width="814" height="796" alt="Zrzut ekranu 2026-07-06 035101" src="https://github.com/user-attachments/assets/b0b13c91-e805-4a73-b950-538e0b0cd6c8" />
 
 The Pcb is rectangle with dimentions 61,65mm x 60,60mm
 
