@@ -1,5 +1,4 @@
 # skullpad
-
 Im buliding this macropad for Hack Club's stardance program! I'll be using it for shortcuts and volume controll. The Keys work as shown:
 
  ┌───┬───┬───┐			Key A - Win + E (opens file explorer)
