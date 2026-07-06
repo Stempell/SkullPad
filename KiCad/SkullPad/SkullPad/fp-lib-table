@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Display") (type "KiCad") (uri "C:/Users/mrkar/Downloads/Display.pretty") (options "") (descr ""))
+	(lib (name "KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master") (type "KiCad") (uri "C:/Users/mrkar/Downloads/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master") (options "") (descr ""))
+	(lib (name "KiCad-SSD1306_OLED-0.91-128x32-master") (type "KiCad") (uri "C:/Users/mrkar/Downloads/KiCad-SSD1306_OLED-0.91-128x32-master/KiCad-SSD1306_OLED-0.91-128x32-master") (options "") (descr ""))
+	(lib (name "SSD1306") (type "KiCad") (uri "C:/Users/mrkar/Downloads/KiCad-SSD1306-128x64-master !!!!!!!/KiCad-SSD1306-128x64-master/library/SSD1306.pretty") (options "") (descr ""))
+)
