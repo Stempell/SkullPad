@@ -32,7 +32,7 @@ The Pcb is rectangle with dimentions 61,65mm x 60,60mm
 <img width="899" height="478" alt="Zrzut ekranu 2026-06-29 221610" src="https://github.com/user-attachments/assets/19d992ad-71a0-427c-ac0a-684f7e4b3c92" />
 <img width="789" height="476" alt="Zrzut ekranu 2026-06-29 221618" src="https://github.com/user-attachments/assets/3cced56c-1cab-4d68-a79f-20789717a22d" />
 
-the case dimensions are 76,7mm x 75,6mm, excluding the chamferings
+the case dimensions are 76,7mm x 75,6mm, excluding the corner chamferings
 
 
 
