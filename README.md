@@ -34,6 +34,8 @@ The Pcb is rectangle with dimentions 61,65mm x 60,60mm
 
 the case dimensions are 76,7mm x 75,6mm, excluding the corner chamferings
 
-
+## Used libraries:
+Joe Scotto's ScottoKicad - https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoKicad
+Hack Club's KiCAD care package - https://github.com/hackclub/hackpad/releases/tag/v0.1-bugfix
 
 
