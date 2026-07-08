@@ -2,7 +2,8 @@
 Im buliding this macropad for Hack Club's stardance program! I'll be using it for shortcuts and volume controll.
 Here's how it looks:
 
-<img width="786" height="713" alt="Zrzut ekranu 2026-06-29 222552" src="https://github.com/user-attachments/assets/a04db64e-f4c4-4ef7-9789-198d2031e827" />
+<img width="781" height="628" alt="Zrzut ekranu 2026-07-08 193353" src="https://github.com/user-attachments/assets/3931ddf9-8518-4e13-88f1-a7e6e47447ed" />
+
 
 
 
