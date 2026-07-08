@@ -38,4 +38,18 @@ the case dimensions are 76,7mm x 75,6mm, excluding the corner chamferings
 Joe Scotto's ScottoKicad - https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoKicad
 Hack Club's KiCAD care package - https://github.com/hackclub/hackpad/releases/tag/v0.1-bugfix
 
+## Bill OF Materials:
+  
+  1x xiao RP2040
+  6x mx-style switches
+  6x black keycaps 
+  6x through-hole 1N4148 diodes
+  1x EC11 rotary encoder
+  4x M3x16mm screws
+  4x M3x5mx4mm heatset inserts
+  1x 0.91 inch OLED display
+  1x printed 61,7 x 60,6 circut board
+  1x 3d printed case shell
+  1x 3d printed case bottom plate
+
 
