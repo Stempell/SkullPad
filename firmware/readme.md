@@ -2,11 +2,16 @@
 Im buliding this macropad for Hack Club's stardance program! I'll be using it for shortcuts and volume controll. The Keys work as shown:
 
  ┌───┬───┬───┐			Key A - Win + E (opens file explorer)
+ 
  │  A │  B │  C │			Key B - Ctrl + M (it mutes my discord mic)
+ 
  ├───┼───┼───┤			Key C - Delete Key
+ 
  │  D │  E │  F │			Key D - Previous track
+ 
  └───┴───┴───┘			Key E - Play / Pause
-			    Key F - Next track
+ 
+			    		Key F - Next track
 
 * Keyboard Maintainer: [Wiktor Stępień](https://github.com/Stempell)
 
